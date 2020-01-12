@@ -1,0 +1,22 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "al",
+            "request": "launch",
+            "name": "INT_DEC",
+            //"server": "http://104.215.183.27", //Azure
+            "server": "http://172.19.107.51", //INTOUCH
+            "serverInstance": "BC150",
+            "port": 7049,
+            "authentication": "UserPassword",
+            "schemaUpdateMode": "ForceSync",
+            "startupObjectId": 50082,
+            "startupObjectType": "Page",
+            "breakOnError": true,
+            "launchBrowser": true,
+            "enableLongRunningSqlStatements": true,
+            "enableSqlInformationDebugger": true
+        }
+    ]
+}

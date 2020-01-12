@@ -1,0 +1,159 @@
+{
+  "id": "62d5c070-c291-41bb-b71b-c2fa71afd0ed",
+  "name": "INT_DEC",
+  "publisher": "AVISION",
+  "version": "1.0.0.0",
+  "brief": "",
+  "description": "",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "",
+  "dependencies": [
+    {
+      "appId": "63ca2fa4-4f03-4f2b-a480-172fef340d3f",
+      "publisher": "Microsoft",
+      "name": "System Application",
+      "version": "1.0.0.0"
+    },
+    {
+      "appId": "437dbf0e-84ff-417a-965d-ed2bb9650972",
+      "publisher": "Microsoft",
+      "name": "Base Application",
+      "version": "15.0.0.0"
+    },
+    {
+      "appId": "39aee12a-6147-40fa-862c-94295dd8246b",
+      "publisher": "AVISIONTH",
+      "name": "VAT and Withholding Tax Localization for Thailand",
+      "version": "1.0.0.0"
+    },
+    {
+      "appId": "64ede103-109f-4c74-8767-b02cf814289c",
+      "publisher": "AVision Co., Ltd",
+      "name": "FN-AR-001",
+      "version": "1.0.0.0"
+    },
+    {
+      "appId": "57f2cebc-eb20-46b1-9406-d6998b7eb531",
+      "publisher": "AVision Co., Ltd",
+      "name": "FN-GN-001",
+      "version": "1.0.0.0"
+    },
+    {
+      "appId": "e108f54d-6c00-4720-9a82-a2d17ac92a95",
+      "publisher": "AVision Co., Ltd",
+      "name": "FN-GN-005",
+      "version": "1.0.0.0"
+    },
+    {
+      "appId": "8fa7bf89-92bd-4579-b520-8ead35429939",
+      "publisher": "AVision Co., Ltd",
+      "name": "FN-GN-006",
+      "version": "1.0.0.0"
+    },
+    {
+      "appId": "bf1529e3-8376-45d3-b744-398554a94327",
+      "publisher": "AVision Co., Ltd",
+      "name": "FN-GN-008",
+      "version": "1.0.0.0"
+    },
+    {
+      "appId": "a350ce16-d775-47f4-b2c6-d0a9833c9172",
+      "publisher": "AVision Co., Ltd",
+      "name": "FN-GN-011",
+      "version": "1.0.0.0"
+    },
+    {
+      "appId": "d0580dbd-0426-499c-9bfa-4cc2092545e9",
+      "publisher": "Avision",
+      "name": "FN-GN-017",
+      "version": "1.0.0.0"
+    },
+    {
+      "appId": "0902ad9a-bb20-4cb1-aff8-163439c89a5b",
+      "publisher": "AVISION",
+      "name": "INT_SCM",
+      "version": "1.0.0.0"
+    },
+    {
+      "appId": "91285aaa-fd69-41db-84d9-ea870f2bb546",
+      "publisher": "AVISION",
+      "name": "INT_EVT",
+      "version": "1.0.0.0"
+    },
+    {
+      "appId": "655e2b8a-33d8-4508-9044-54a1eabf120b",
+      "publisher": "AVISION",
+      "name": "INT_Interfacebank_BBL",
+      "version": "1.0.0.0"
+    },
+    {
+      "appId": "245b2c2e-8814-4a6a-aed6-b48defbb1cfc",
+      "publisher": "AVISION",
+      "name": "INT_Interfacebank_DBK",
+      "version": "1.0.0.0"
+    },
+    {
+      "appId": "ab9c3001-9e44-4ec2-8a53-be9e7c49b7ee",
+      "publisher": "AVision Co., Ltd",
+      "name": "FN-GN-002",
+      "version": "1.0.0.0"
+    },
+    {
+      "appId": "d4d23a97-f3e5-4cc2-9690-384fea1dd3ff",
+      "publisher": "AVision Co., Ltd",
+      "name": "FN-GN-004",
+      "version": "1.0.0.0"
+    },
+    {
+      "appId": "35e57db8-26a0-46e5-b565-7aa031957586",
+      "publisher": "AVision Co., Ltd",
+      "name": "DM-AR",
+      "version": "1.0.0.0"
+    },
+    {
+      "appId": "70ba8c02-91f3-4336-b0c8-b40bb4fa6586",
+      "publisher": "AVision Co., Ltd",
+      "name": "FN-GL-001",
+      "version": "1.0.0.0"
+    },
+    {
+      "appId": "1bbfb11b-6d6c-40a1-a210-5ad90cad25e4",
+      "publisher": "AVision Co., Ltd",
+      "name": "FN-PO-001",
+      "version": "1.0.0.0"
+    },
+    {
+      "appId": "88944c76-04a9-4fc9-8473-49fbcc21bd74",
+      "publisher": "AVision Co., Ltd",
+      "name": "DM-AP",
+      "version": "1.0.0.0"
+    },
+    {
+      "appId": "a375b829-05a9-4328-a463-ceec84612c43",
+      "publisher": "AVision Co., Ltd",
+      "name": "FN-AR-002",
+      "version": "1.0.0.0"
+    },
+    {
+      "appId": "5b3f3258-616b-43ab-b66c-e7c21bf6c65b",
+      "publisher": "AVISION",
+      "name": "INT_ReportSelection",
+      "version": "1.0.0.0"
+    }
+  ],
+  "screenshots": [],
+  "platform": "15.0.0.0",
+  "idRanges": [
+    {
+      "from": 50000,
+      "to": 99999
+    }
+  ],
+  "contextSensitiveHelpUrl": "https://INT_DEC.com/help/",
+  "showMyCode": false,
+  "runtime": "4.0",
+  "target": "Internal"
+}

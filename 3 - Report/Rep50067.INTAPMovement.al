@@ -27,6 +27,9 @@ report 50067 "INT_A/P Movement"
                 column(EntryNo_VendorLedgerEntry; "Vendor Ledger Entry"."Entry No.")
                 {
                 }
+                Column(Description; "Vendor Ledger Entry".Description)
+                {
+                }
                 column(ShowVendorLedgerEntry; ShowVendorLedgerEntry)
                 {
                 }
@@ -198,6 +201,9 @@ report 50067 "INT_A/P Movement"
                     {
                     }
                     column(PostingDate_ClosedatInvoice; FORMAT("Closed at Invoice"."Posting Date", 0, 1))
+                    {
+                    }
+                    column(Description_ClosedatInvoice; "Closed at Invoice".Description)
                     {
                     }
                     column(ClosedbyAmountLCY_ClosedatInvoice; "Closed at Invoice"."Closed by Amount (LCY)")

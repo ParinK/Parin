@@ -23,6 +23,12 @@ pageextension 50132 "INT_Purch. Invoice Subform" extends "Purch. Invoice Subform
                     "Depr. until FA Posting Date" := true;
                     "AVF_WHT Product Posting Group" := 'NOWHT';
                 end;
+
+                if CopyStr("No.", 1, 3) = '031' then begin
+                    if Type <> Type::"Fixed Asset" then begin
+                        TestField(Type, Type::"Fixed Asset");
+                    end;
+                end;
             end;
         }
         modify(PurchDetailLine)
